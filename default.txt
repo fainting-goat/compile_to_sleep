@@ -1,0 +1,49 @@
+==> connection
+Compiling 1 file (.ex)
+Generated connection app
+==> gettext
+Compiling 1 file (.erl)
+Compiling 20 files (.ex)
+Generated gettext app
+==> decimal
+Compiling 1 file (.ex)
+Generated decimal app
+==> poison
+Compiling 4 files (.ex)
+Generated poison app
+==> db_connection
+Compiling 23 files (.ex)
+Generated db_connection app
+==> phoenix_pubsub
+Compiling 12 files (.ex)
+Generated phoenix_pubsub app
+==> amqp
+Compiling 9 files (.ex)
+Generated amqp app
+==> mime
+Compiling 1 file (.ex)
+Generated mime app
+==> plug
+Compiling 44 files (.ex)
+Generated plug app
+==> phoenix_html
+Compiling 8 files (.ex)
+Generated phoenix_html app
+==> phoenix
+Compiling 60 files (.ex)
+Generated phoenix app
+==> phoenix_live_reload
+Compiling 3 files (.ex)
+Generated phoenix_live_reload app
+==> postgrex
+Compiling 61 files (.ex)
+Generated postgrex app
+==> ecto
+Compiling 69 files (.ex)
+Generated ecto app
+==> phoenix_ecto
+Compiling 4 files (.ex)
+Generated phoenix_ecto app
+==> testapp
+Compiling 18 files (.ex)
+Generated testapp app
